@@ -1,0 +1,4 @@
+# Dirsearch started Mon Jan 12 15:01:36 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://dailymotionadvertising.com/wp-content/uploads/wc-logs/
+
+301     0B   https://dailymotionadvertising.com/wp-content/uploads/wc-logs/%2e%2e//google.com    -> REDIRECTS TO: https://dailymotionadvertising.com/wp-content/uploads/wc-logs/%2E%2E/google.com
+404    17KB  https://dailymotionadvertising.com/wp-content/uploads/wc-logs/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
