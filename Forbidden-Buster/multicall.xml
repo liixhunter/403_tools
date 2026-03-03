@@ -5,8 +5,8 @@
         <param><value><array><data>
             <value><struct><member><name>methodName</name><value><string>pingback.ping</string></value></member>
             <member><name>params</name><value><array><data>
-                <value><string>https://webhook.site/152ebef4-8370-49d1-9913-b4ebdb5ed32b</string></value>
-                <value><string>https://dailymotionadvertising.com/</string></value>
+                <value><string>https://webhook.site/</string></value>
+                <value><string>https://website/</string></value>
             </data></array></value></member></struct></value>
         </data></array></value></param>
     </params>
