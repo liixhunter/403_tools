@@ -1,0 +1,6 @@
+# Dirsearch started Sat Feb 14 20:57:52 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://click.mktcloudtecnologia.caixavidaeprevidencia.com.br/resources/ -x 404,400
+
+200   932B   https://click.mktcloudtecnologia.caixavidaeprevidencia.com.br/resources/%3f/
+403   312B   https://click.mktcloudtecnologia.caixavidaeprevidencia.com.br/resources/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+200   932B   https://click.mktcloudtecnologia.caixavidaeprevidencia.com.br/resources/.ashx
+200   932B   https://click.mktcloudtecnologia.caixavidaeprevidencia.com.br/resources/.asmx
