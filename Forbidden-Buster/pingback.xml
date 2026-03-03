@@ -3,6 +3,6 @@
     <methodName>pingback.ping</methodName>
     <params>
         <param><value><string>https://your-controlled-domain.com/pingback-source</string></value></param>
-        <param><value><string>https://dailymotionadvertising.com/xmlrpc.php</string></value></param>
+        <param><value><string>https:/sitexmlrpc.php</string></value></param>
     </params>
 </methodCall>
